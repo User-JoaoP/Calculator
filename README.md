@@ -4,9 +4,9 @@ An calculator application with scientific and dark mode
 
 ## Screenshots
 
-![calc_white](https://user-images.githubusercontent.com/88295209/200696462-bf2b86bd-95e9-4863-85dd-ef75307b671d.png)
+![calc_white1](https://user-images.githubusercontent.com/88295209/201482038-5cf07211-2e38-4d26-b757-e8680a87475e.png)
 
-![calc_dark](https://user-images.githubusercontent.com/88295209/200696503-03d508e3-385a-48cd-b662-f1433ecce942.png)
+![calc_dark1](https://user-images.githubusercontent.com/88295209/201482247-01dfbd3f-b683-4d9b-938b-fab3b9732ac2.png)
 
 ## Functionalities
 
