@@ -22,6 +22,6 @@ Done with Java in NetBeans, the interface was made using JFrame from swing libra
 ## Authors
 
 - [@Me](https://github.com/User-JoaoP)
-- [@AnaDarte](https://github.com/anaduart)
+- [@AnaDuarte](https://github.com/anaduart)
 - [@JoãoPedro](https://github.com/JPedroo)
 - [@MiguelAffiune](https://github.com/AffiuneM)
